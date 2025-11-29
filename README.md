@@ -1,10 +1,5 @@
 ## Hi there 👋 łimbałeee hłe hłe
-
-![Static Badge](https://img.shields.io/badge/giphy-%23FF6666?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/whatsapp-%2325D366)
-
-
-![Static Badge](https://img.shields.io/badge/whatsapp-25D366?style=plastic&logo=html)
+![Static Badge](https://img.shields.io/badge/whatsapp-25D366?style=plastic&logo=whatsapp)
 
 
 
