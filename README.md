@@ -4,6 +4,10 @@
 ![Static Badge](https://img.shields.io/badge/whatsapp-%2325D366)
 
 
+![Static Badge](https://img.shields.io/badge/whatsapp-25D366?style=plastic&logo=html)
+
+
+
 <!--
 **marmus9/marmus9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
