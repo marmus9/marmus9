@@ -4,7 +4,9 @@
 
 ![Static Badge](https://img.shields.io/badge/scylladb-%236CD5E7?style=plastic&logo=scylladb&logoSize=%23000000)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marmus9&show=reviews,discussions_started)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marmus9&show=reviews,discussions_started
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marmus9&show_icons=true&theme=radical)
 
 <!--
 **marmus9/marmus9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
