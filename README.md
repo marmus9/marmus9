@@ -15,7 +15,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marmus9&size_weight=0.5&count_weight=0.5)
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=marmus9&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="marmus9's GitHub Stats" />
 <!--
 **marmus9/marmus9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
