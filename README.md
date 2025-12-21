@@ -2,6 +2,9 @@
 ![Static Badge](https://img.shields.io/badge/whatsapp-25D366?style=plastic&logo=whatsapp) ![Static Badge](https://img.shields.io/badge/kirby-000000?style=for-the-badge&logo=kirby)
 
 
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=html">
+
+
 ![Static Badge](https://img.shields.io/badge/scylladb-%236CD5E7?style=plastic&logo=scylladb&logoSize=%23000000)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marmus9&show=reviews,discussions_started
