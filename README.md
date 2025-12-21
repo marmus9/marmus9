@@ -1,5 +1,8 @@
 ## Hi there 👋 łimbałeee hłe hłe
 ![Static Badge](https://img.shields.io/badge/html5?style=plastic&logo=whatsapp) ![Static Badge](https://img.shields.io/badge/kirby-000000?style=for-the-badge&logo=kirby)
+## Wykorzystane technologie
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 
 
 <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=html">
