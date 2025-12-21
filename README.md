@@ -4,6 +4,7 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=html">
 <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=%23E34F26">
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=html5)
 
 
 ![Static Badge](https://img.shields.io/badge/scylladb-%236CD5E7?style=plastic&logo=scylladb&logoSize=%23000000)
